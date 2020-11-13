@@ -1,0 +1,21 @@
+h1 {
+  color:red;
+  font-family: 'Verdana';
+}
+
+p1 {
+  font-family: 'Comic Sans MS';
+  font-size: 18px;
+}
+
+p2 {
+  color:green;
+  font-family: 'Comic Sans MS';
+  font-size: 18px;
+}
+
+a{
+  color:lime;
+  font-family: 'Comic Sans MS';
+  font-size: 18px;
+}
