@@ -11,7 +11,7 @@ function loadcontent(content) {
 $(document).ready(function () {
   var playButton=$("#play_button")
   playButton.click(function(){
-    alert("button")
+
  $.ajax({
    url: "game.html",
    crossDomain: true,
