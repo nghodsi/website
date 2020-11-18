@@ -1,12 +1,35 @@
 h1 {
-  color:red;
   font-family: 'Verdana';
+  font-size: 50px;
+  color:Orange;
 }
+
 
 p1 {
   font-family: 'Comic Sans MS';
   font-size: 18px;
+  color:#008BB8;
 }
+p6 {
+  font-family: 'Verdana';
+  font-size: 20px;
+  color:Lime;
+}
+p3 {
+  font-family: 'Impact';
+  font-size: 56px;
+  color:Yellow;
+}
+p4{
+  font-family: 'Impact';
+  font-size: 30px;
+  color:Orange;
+}
+
+div.a{
+  text-align: center;
+}
+
 
 p2 {
   color:green;
@@ -14,8 +37,12 @@ p2 {
   font-size: 18px;
 }
 
+body{
+  background-color: black;
+}
+
 a{
-  color:lime;
+  color:#008BB8;
   font-family: 'Comic Sans MS';
-  font-size: 18px;
+  font-size: 24px;
 }
