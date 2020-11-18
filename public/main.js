@@ -1,17 +1,15 @@
-function changeText()
-{
- document.getElementById("heading").innerHTML = "Who's Joe?";
+function changeText() {
+ document.getElementById("heading").innerHTML="Who's Joe?";
 }
 
 
 function loadcontent(content) {
   alert (content)
-$("#game_content").html(content)
-
+  $("#game_content").html(content)
 }
 
 $(document).ready(function () {
-  var playButton = $("#play_button")
+  var playButton=$("#play_button")
   playButton.click(function(){
     alert("button")
  $.ajax({
@@ -20,7 +18,6 @@ $(document).ready(function () {
    success:loadcontent
  })
 
-
-  })
+ })
 
 });

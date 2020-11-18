@@ -1,48 +1,41 @@
 h1 {
-  font-family: 'Verdana';
-  font-size: 50px;
+  font-family:'Verdana';
+  font-size:50px;
   color:Orange;
 }
-
-
 p1 {
-  font-family: 'Comic Sans MS';
-  font-size: 18px;
+  font-family:'Comic Sans MS';
+  font-size:18px;
   color:#008BB8;
 }
 p6 {
-  font-family: 'Verdana';
-  font-size: 20px;
+  font-family:'Verdana';
+  font-size:20px;
   color:Lime;
 }
 p3 {
-  font-family: 'Impact';
-  font-size: 56px;
+  font-family:'Impact';
+  font-size:56px;
   color:Yellow;
 }
 p4{
-  font-family: 'Impact';
-  font-size: 30px;
+  font-family:'Impact';
+  font-size:30px;
   color:Orange;
 }
-
 div.a{
-  text-align: center;
+  text-align:center;
 }
-
-
 p2 {
   color:green;
-  font-family: 'Comic Sans MS';
+  font-family:'Comic Sans MS';
   font-size: 18px;
 }
-
 body{
- background-color: black;
+ background-color:black;
 }
-
 a{
   color:#008BB8;
-  font-family: 'Comic Sans MS';
-  font-size: 24px;
+  font-family:'Comic Sans MS';
+  font-size:24px;
 }
