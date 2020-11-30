@@ -1,0 +1,6 @@
+//I'm adding this just to have chrome as the default
+//when atom liver server opens the website, feel free to delete this file after - Jacky
+
+{
+  "browser": "google chrome"
+}
