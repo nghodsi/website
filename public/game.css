@@ -32,3 +32,8 @@
   align-items:center;
   justify-content:center;
 }
+
+#sans_button {
+  position: relative;
+  top: 30px;
+}

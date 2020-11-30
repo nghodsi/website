@@ -1,0 +1,13 @@
+#sans_button: active {
+  position: relative;
+  top:25px;
+  float: left;
+}
+
+.sans-background{
+  background-color: red;
+  font-family:'Comic Sans MS';
+}
+
+.snowdin-outer-div{
+}
